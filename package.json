@@ -1,0 +1,27 @@
+{
+  "name": "sxs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/HetzlerKai/ProjectSXS#readme",
+  "description": "Project_SXS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HetzlerKai/ProjectSXS.git"
+  },
+  "author": "Kai Hetzler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HetzlerKai/ProjectSXS/issues"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
